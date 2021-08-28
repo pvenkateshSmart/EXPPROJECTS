@@ -1,0 +1,9 @@
+GET http://localhost:8000/papers/
+
+###
+
+GET http://localhost:8000/papers/ceatecollection/sea
+
+####
+
+GET http://localhost:8000/test
