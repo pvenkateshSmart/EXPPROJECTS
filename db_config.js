@@ -5,5 +5,5 @@ const { Mongoose } = require("mongoose")
 module.exports={
 
     DB_PORT:4200,
-    DB_URL:"10.60.1.71:27017/tsonlines"
+    DB_URL:""
 }
